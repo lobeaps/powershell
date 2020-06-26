@@ -11,7 +11,7 @@
     Copyright 2020 - Philip Kjærsgaard/yosoyphil
 .LINK
     Script posted over:
-    http://replace-once-repo-is-public
+    https://github.com/lobeaps/powershell
 .EXAMPLE
     1. Make sure Exchange Online Module v2 is installed
     2. Navigate to script folder and type:

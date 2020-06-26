@@ -13,7 +13,7 @@
     Copyright 2019 - Philip Kjærsgaard/yosoyphil
 .LINK
     Script posted over:
-    http://replace-once-repo-is-public
+    https://github.com/lobeaps/powershell
 .EXAMPLE
     1. Open PowerShell as Admin
     2. Navigate to script folder and type:
