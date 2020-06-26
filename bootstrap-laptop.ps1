@@ -18,7 +18,7 @@
     1. Open PowerShell as Admin
     2. Navigate to script folder and type:
        Set-ExecutionPolicy Bypass -Scope Process
-       .\bootstrap-employee-computer.ps1
+       .\bootstrap-laptop.ps1
 #>
 
 # What to do about errors?
